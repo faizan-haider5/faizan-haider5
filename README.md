@@ -119,13 +119,11 @@ data class Developer(
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/faizan-haider5/faizan-haider5/output/github-contribution-grid-snake-dark.svg)
-
-> ⚙️ *Enable this by adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.*
+[![trophy](https://github-profile-trophy.vercel.app/?username=faizan-haider5&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -135,10 +133,10 @@ data class Developer(
 
 <div align="center">
 
-<a href="mailto:thefaizan@gmail.com">
+<a href="mailto:your@email.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/faizan-haider-3b07193aa/)">
+<a href="https://www.linkedin.com/in/faizan-haider-3b07193aa/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://github.com/faizan-haider5">
