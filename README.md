@@ -1,115 +1,155 @@
 <div align="center">
 
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Faizan+Haider+%F0%9F%91%BE;CS+Student+%7C+Code+%7C+Build+%7C+Repeat;Turning+coffee+into+code+%E2%98%95%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=4F8EF7&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Faizan+Haider+%F0%9F%91%8B;Mobile+App+Developer+%7C+Flutter+%26+Firebase;CS+Student+building+the+future+%F0%9F%9A%80;Turning+ideas+into+beautiful+apps+%F0%9F%93%B1)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Matrix-style green line -->
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:4F8EF7&height=120&section=header&text=Faizan%20Haider&fontSize=42&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn&desc=CS%20Student%20%7C%20Flutter%20Developer%20%7C%20Firebase%20Enthusiast&descAlignY=85&descSize=16&descColor=A8C8FF"/>
 
 </div>
 
 ---
-
-```bash
-┌──(faizan㉿haider)-[~]
-└─$ whoami
-```
-
-```
-> Name      : Faizan Haider
-> Role      : CS Student & Aspiring Developer 🎓
-> Location  : Pakistan 🇵🇰          ← update me!
-> Status    : Building cool stuff...
-> Interests : Web Dev | Systems | Problem Solving
-> Motto     : "Code is poetry. Write it beautifully."
-```
-
-```bash
-┌──(faizan㉿haider)-[~]
-└─$ cat skills.txt
-```
-
----
-
-## 🖥️ Tech Arsenal
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+```kotlin
+data class Developer(
+    val name     : String  = "Faizan Haider",
+    val role     : String  = "CS Student & Mobile App Developer",
+    val location : String  = "Pakistan 🇵🇰",
+    val stack    : List<String> = listOf("Flutter", "Dart", "Firebase"),
+    val status   : String  = "Building cool apps... 📱",
+    val motto    : String  = "Great apps are built with great UX."
+)
+```
 
 </div>
 
 ---
 
-```bash
-┌──(faizan㉿haider)-[~]
-└─$ ./github_stats.sh
-```
+## 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
+
+- 🎓 **CS Student** — passionate about mobile development
+- 📱 Building **cross-platform apps** with **Flutter & Dart**
+- 🔥 Leveraging **Firebase** for backend magic
+- 🌱 Currently exploring **State Management** & **Clean Architecture**
+- 🎯 Goal: Ship apps that people actually love using
+- ⚡ Fun fact: I debug with `print()` and I'm not ashamed
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=0D1117)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 💻 Languages & Web
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Backend & Database
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=0D1117)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🔧 Tools & Environment
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Cool Projects
+
+<div align="center">
+
+| 🏗️ Project | 📝 Description | 🛠️ Stack | 🔗 |
+|---|---|---|---|
+| **📱 App One** | A beautiful cross-platform mobile app | Flutter · Firebase · Dart | [View →](https://github.com/faizan-haider5) |
+| **🛒 App Two** | E-commerce app with real-time sync | Flutter · Firestore · GetX | [View →](https://github.com/faizan-haider5) |
+| **💬 Chat App** | Real-time messaging with Firebase | Flutter · Firebase Auth · FCM | [View →](https://github.com/faizan-haider5) |
+| **📊 App Four** | Dashboard & data visualization app | Flutter · REST API · Charts | [View →](https://github.com/faizan-haider5) |
+
+> ⚙️ *Replace project names, descriptions, and links with your actual projects!*
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizan-haider5&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-haider5&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizan-haider5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-haider5&theme=tokyonight&hide_border=true&background=0D1117&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7&border_radius=10" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-haider5&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-haider5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&text_color=FFFFFF&border_radius=10&langs_count=6" />
 
 </div>
 
 ---
 
-```bash
-┌──(faizan㉿haider)-[~]
-└─$ cat activity_graph.log
-```
+## 📈 Contribution Activity
 
-## 🐍 Contribution Activity
+<div align="center">
+
+[![Faizan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizan-haider5&theme=react-dark&bg_color=0D1117&color=4F8EF7&line=4F8EF7&point=FFFFFF&area=true&area_color=1a3a6e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/faizan-haider5/faizan-haider5/output/github-contribution-grid-snake-dark.svg)
 
-> ⚠️ To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
+> ⚙️ *Enable this by adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.*
 
 </div>
 
 ---
 
-```bash
-┌──(faizan㉿haider)-[~]
-└─$ cat contact.json
-```
-
-## 📡 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-```json
-{
-  "email"    : "your@email.com",
-  "linkedin" : "linkedin.com/in/your-profile",
-  "github"   : "github.com/faizan-haider5",
-  "location" : "Pakistan 🇵🇰"
-}
-```
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizan-haider5)
+<a href="mailto:thefaizan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/faizan-haider-3b07193aa/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://github.com/faizan-haider5">
+  <img src="https://img.shields.io/badge/GitHub-4F8EF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://twitter.com/your-handle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" />
+</a>
+<a href="https://instagram.com/your-handle">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
+</a>
 
 </div>
 
@@ -117,17 +157,10 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=faizan-haider5&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=faizan-haider5&color=4F8EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
-```
-╔══════════════════════════════════════════════╗
-║  Thanks for visiting! Drop a ⭐ if you like  ║
-║         what you see.  — Faizan 🖤           ║
-╚══════════════════════════════════════════════╝
-```
-
-*"First, solve the problem. Then, write the code."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1a1a2e&height=100&section=footer&animation=fadeIn"/>
 
 </div>
