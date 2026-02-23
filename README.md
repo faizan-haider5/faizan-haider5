@@ -119,11 +119,29 @@ data class Developer(
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=faizan-haider5&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80px" alt="YOLO"/>
+      <br/><b>YOLO</b>
+      <br/><sub>Merged a PR without review</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80px" alt="Starstruck"/>
+      <br/><b>Starstruck</b>
+      <br/><sub>Created a repo with many stars</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80px" alt="Pull Shark"/>
+      <br/><b>Pull Shark</b>
+      <br/><sub>Opened PRs that got merged</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -133,7 +151,7 @@ data class Developer(
 
 <div align="center">
 
-<a href="mailto:your@email.com">
+<a href="mailto:faizan546233@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="https://www.linkedin.com/in/faizan-haider-3b07193aa/">
@@ -142,10 +160,7 @@ data class Developer(
 <a href="https://github.com/faizan-haider5">
   <img src="https://img.shields.io/badge/GitHub-4F8EF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://twitter.com/your-handle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://instagram.com/your-handle">
+<a href="https://instagram.com/syed_fazi_5">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
 </a>
 
